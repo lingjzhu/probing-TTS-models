@@ -1,3 +1,3 @@
 ## Probing the phonetic and phonological knowledge of tones in Mandarin TTS models
 
-[Online demo](https://lingjzhu.github.io/TTS_and_Tone_demo/)
+Audio samples can be found at here. [Online demo](https://lingjzhu.github.io/TTS_and_Tone_demo/)
