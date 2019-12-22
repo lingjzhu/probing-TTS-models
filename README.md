@@ -10,4 +10,5 @@ To be updated.
 [Tacotron 2 - PyTorch implementation with faster-than-realtime inference](https://github.com/NVIDIA/tacotron2)  
 [WaveGlow: a Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)  
 [A Demo of MTTS Mandarin/Chinese Text to Speech FrontEnd](https://github.com/Jackiexiao/MTTS)  
+[Open-source mandarin speech synthesis data](https://www.data-baker.com/open_source.html)
 [只用同一声调的字可以造出哪些句子？](https://www.zhihu.com/question/27733544)  
