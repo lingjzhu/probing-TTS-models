@@ -1,0 +1,10 @@
+data/000001.wav
+data/000002.wav
+data/000003.wav
+data/000004.wav
+data/000005.wav
+data/000006.wav
+data/000007.wav
+data/000008.wav
+data/000009.wav
+data/000010.wav
