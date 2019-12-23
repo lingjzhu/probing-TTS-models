@@ -23,7 +23,7 @@ python synthesize.py --text ./stimuli/tone3_stimuli --use_bert --bert_folder pat
 --out_dir path_output_dir
 ```
 
-
+The current implementation is based on the Nvidia's public implementation of Tacotron2 and Waveglow
 ### References
 This project has benefited immensely from the following works.  
 [Pre-Trained Chinese BERT with Whole Word Masking](https://github.com/ymcui/Chinese-BERT-wwm)  
