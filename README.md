@@ -15,7 +15,9 @@ To be updated.
 Or:  
    Use the following command line.  
 ```
-python synthesize.py --text ./stimuli/tone3_stimuli --use_bert --bert_folder path_to_bert_folder --tacotron_path path_to_pre-trained_tacotron2 --waveglow_path path_to_pre-trained_waveglow --out_dir path_output_dir
+python synthesize.py --text ./stimuli/tone3_stimuli --use_bert --bert_folder path_to_bert_folder 
+--tacotron_path path_to_pre-trained_tacotron2 --waveglow_path path_to_pre-trained_waveglow 
+--out_dir path_output_dir
 ```
 
 
