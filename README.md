@@ -8,7 +8,7 @@ All synthesized stimuli can be accessed at this [folder](https://drive.google.co
 
 
 ### Demo
-To be updated.
+2. Download pre-trained Mandarin models at this [folder](https://drive.google.com/drive/folders/1Sf9t4IzMVGAgcznoTIn2mRNlcVkZuE3w?usp=sharing).
 
 
 ### References
