@@ -8,7 +8,9 @@ All synthesized stimuli can be accessed [here](https://drive.google.com/drive/fo
 
 
 ### Demo
-To be updated.
+Online Colab demo.  
+  
+Runing locally.  
 1. Download pre-trained Mandarin models at this [folder](https://drive.google.com/drive/folders/1Sf9t4IzMVGAgcznoTIn2mRNlcVkZuE3w?usp=sharing).
 2. Download [pre-trained Chinese BERT](https://github.com/ymcui/Chinese-BERT-wwm) (`BERT-wwm-ext, Chinese`).
 3. Run ``inference_bert.ipynb''   
