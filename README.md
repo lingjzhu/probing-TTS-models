@@ -12,7 +12,7 @@ All synthesized stimuli can be accessed [here](https://drive.google.com/drive/fo
 3. Download [pre-trained Chinese BERT](https://github.com/ymcui/Chinese-BERT-wwm) (`BERT-wwm-ext, Chinese`).
 
 ### References
-This project has benefited immensely from the following works.
+This project has benefited immensely from the following works.  
 [Pre-Trained Chinese BERT with Whole Word Masking](https://github.com/ymcui/Chinese-BERT-wwm)  
 [Tacotron 2 - PyTorch implementation with faster-than-realtime inference](https://github.com/NVIDIA/tacotron2)  
 [WaveGlow: a Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)  
