@@ -4,7 +4,7 @@
 
 Audio samples can be found here: [online demo](https://lingjzhu.github.io/TTS_and_Tone_demo/)
 
-All synthesized stimuli can be accessed at this [folder](https://drive.google.com/drive/folders/1AX0jqPnigC2s2CSuDbWhNwVRwcFg8dmM?usp=sharing).
+All synthesized stimuli can be accessed [here](https://drive.google.com/drive/folders/1AX0jqPnigC2s2CSuDbWhNwVRwcFg8dmM?usp=sharing).
 
 
 ### Demo
