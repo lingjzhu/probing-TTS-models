@@ -11,9 +11,9 @@ All synthesized stimuli can be accessed [here](https://drive.google.com/drive/fo
 To be updated.
 1. Download pre-trained Mandarin models at this [folder](https://drive.google.com/drive/folders/1Sf9t4IzMVGAgcznoTIn2mRNlcVkZuE3w?usp=sharing).
 2. Download [pre-trained Chinese BERT](https://github.com/ymcui/Chinese-BERT-wwm) (`BERT-wwm-ext, Chinese`).
-3. Run ``inference_bert.ipynb'' 
-Or:
-3. Use the following command line.
+3. Run ``inference_bert.ipynb''   
+Or:  
+   Use the following command line.  
 ```
 python synthesize.py --text ./stimuli/tone3_stimuli --use_bert --bert_folder path_to_bert_folder --tacotron_path path_to_pre-trained_tacotron2 --waveglow_path path_to_pre-trained_waveglow --out_dir path_output_dir
 ```
