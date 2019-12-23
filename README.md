@@ -9,6 +9,7 @@ All synthesized stimuli can be accessed [here](https://drive.google.com/drive/fo
 
 ### Demo
 Online Colab demo.  
+  To be updated.  
   
 Runing locally.  
 1. Download pre-trained Mandarin models at this [folder](https://drive.google.com/drive/folders/1Sf9t4IzMVGAgcznoTIn2mRNlcVkZuE3w?usp=sharing).
