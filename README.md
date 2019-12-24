@@ -1,4 +1,4 @@
-## Probing the phonetic and phonological knowledge of tones in Mandarin TTS models [arXiv](https://arxiv.org/abs/1912.10915)
+## Probing the phonetic and phonological knowledge of tones in Mandarin TTS models [link to pdf](https://arxiv.org/abs/1912.10915)
 
 ### Data
 
