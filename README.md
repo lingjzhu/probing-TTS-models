@@ -10,7 +10,7 @@ All synthesized stimuli can be accessed [here](https://drive.google.com/drive/fo
 
 ### Demo
 #### Online Colab demo.  
-You can directly run the TTS model (Tacotron2 and ) on Google Colab (with a powerful GPU).  
+You can directly run the TTS model (Tacotron2 and WaveGlow) on Google Colab (with a powerful GPU).  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lingjzhu/probing-TTS-models/blob/master/TTS_colab_demo.ipynb)  
   
 #### Runing locally.  
