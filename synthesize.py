@@ -75,11 +75,11 @@ def extract_embeddings(model,tokenizer,text,upsampling=True):
     phon_seq = [i for syl in pinyin_seq for i in syl]
     
     inputs = torch.tensor(tokenizer.encode(clean_text)).unsqueeze(0)
+    assert inputs[0,0]==101 and inputs[0,-1]==102
     outputs = model(inputs)    
-    h = outputs[2][-1].cpu().detach().numpy()
+    h = outputs[0].cpu().detach().numpy()
 #    del outputs
-    
-    
+    h = h[:,1:-1,:]
     assert h.shape[1] == len(pinyin_seq)
 
     features = [np.tile(h[:,i,:],[1,len(syl),1]) for i,syl in enumerate(pinyin_seq)]
