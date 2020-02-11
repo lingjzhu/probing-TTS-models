@@ -14,6 +14,7 @@ You can directly run the TTS models (Tacotron2 and WaveGlow) on Google Colab (wi
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lingjzhu/probing-TTS-models/blob/master/TTS_colab_demo.ipynb)  
   
 #### Runing locally.  
+torch == 1.1.0
 1. Download pre-trained Mandarin models at this [folder](https://drive.google.com/drive/folders/1Sf9t4IzMVGAgcznoTIn2mRNlcVkZuE3w?usp=sharing).
 2. Download [pre-trained Chinese BERT](https://github.com/ymcui/Chinese-BERT-wwm) (`BERT-wwm-ext, Chinese`).
 3. Run ``inference_bert.ipynb''   
