@@ -1,5 +1,5 @@
 ## Probing the phonetic and phonological knowledge of tones in Mandarin TTS models 
-[link to pdf](https://arxiv.org/abs/1912.10915)
+[link to pdf](https://www.isca-speech.org/archive/SpeechProsody_2020/pdfs/51.pdf)
 
 ### Data
 
