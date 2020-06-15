@@ -7,6 +7,7 @@ Audio samples can be found here: [online demo](https://lingjzhu.github.io/TTS_an
 
 All synthesized stimuli can be accessed [here](https://drive.google.com/drive/folders/1AX0jqPnigC2s2CSuDbWhNwVRwcFg8dmM?usp=sharing).
 
+Traning data can be found [here](https://www.data-baker.com/open_source.html).
 
 ### Demo
 #### Online Colab demo.  
