@@ -28,6 +28,13 @@ python synthesize.py --text ./stimuli/tone3_stimuli --use_bert --bert_folder pat
 ```
 
 Note. The current implementation is based on the Nvidia's public implementation of Tacotron2 and Waveglow
+
+### Training steps
+1. Download the dataset;
+2. Run scripts in the preprocessing folder;
+3. Run the training script (detailed descriptions of each argument can be found in the source code).
+
+
 ### References
 This project has benefited immensely from the following works.  
 [Pre-Trained Chinese BERT with Whole Word Masking](https://github.com/ymcui/Chinese-BERT-wwm)  
