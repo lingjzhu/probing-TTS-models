@@ -53,6 +53,7 @@ def extract_embeddings(model,tokenizer,text,upsampling=True):
     outputs = model(inputs)    
     h = outputs[0].cpu().detach().numpy()
 #    del outputs
+    h = h[:,1:-1,:]
     
     
     assert h.shape[1] == len(pinyin_seq)
