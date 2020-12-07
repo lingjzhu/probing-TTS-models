@@ -2,9 +2,9 @@
 [link to pdf](https://www.isca-speech.org/archive/SpeechProsody_2020/pdfs/51.pdf)
 
 ### Update
-Thanks for those who have pointed out bugs in this repo. I was surprised to find that many of you were interested in this project. I am sorry that detailed steps for training the model were not provided and that some common bugs were not fixed. I have fixed a bug in this repo. Another common problem about replication is that training the model from scratch is very hard. So before training I initialized the model with the weights from a pre-trained English model ([link](https://github.com/NVIDIA/tacotron2)). With the pre-trained English model initialization, the Chinese model converged very fast and was able to produce natural speech. 
+Thanks for those who have pointed out bugs in this repo. I was surprised to find that many of you were interested in this project. As I did not expect that people would run my training code, I am sorry that detailed steps for training the model were not provided and that some common bugs were not fixed. Now I have fixed a bug in this repo. Another common problem about replication is that training the model from scratch is very hard. So before training I initialized the model with the weights from a pre-trained English model ([link](https://github.com/NVIDIA/tacotron2)). With the pre-trained English model initialization, the Chinese model converged very fast and was able to produce natural speech. 
 
-I will try to update detailed training steps soon. 
+The training steps are also updated (see below). 
 
 
 ### Data
