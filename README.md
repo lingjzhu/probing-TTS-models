@@ -2,7 +2,7 @@
 [link to pdf](https://www.isca-speech.org/archive/SpeechProsody_2020/pdfs/51.pdf)
 
 ### Update
-@gzfffff has provided [a updated version of this repo](https://github.com/gzfffff/probing-TTS-models) with mulitple bugs corrected. 
+@gzfffff has provided [a updated version of this repo](https://github.com/gzfffff/probing-TTS-models) with mulitple bugs corrected (thanks!). 
 
 Thanks for those who have pointed out bugs in this repo. I was surprised to find that many of you were interested in this project. As I did not expect that people would run my training code, I am sorry that detailed steps for training the model were not provided and that some common bugs were not fixed. Now I have fixed a bug in this repo. 
 
