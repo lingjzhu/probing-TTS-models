@@ -2,6 +2,8 @@
 [link to pdf](https://www.isca-speech.org/archive/SpeechProsody_2020/pdfs/51.pdf)
 
 ### Update
+@gzfffff has provided [a updated version of this repo](https://github.com/gzfffff/probing-TTS-models) with mulitple bugs corrected. 
+
 Thanks for those who have pointed out bugs in this repo. I was surprised to find that many of you were interested in this project. As I did not expect that people would run my training code, I am sorry that detailed steps for training the model were not provided and that some common bugs were not fixed. Now I have fixed a bug in this repo. 
 
 Another common problem about replication is that training the model from scratch does not result in natural synthesized speech. I encountered the same issue too. So, before training, I initialized the model with the weights from a pre-trained English model ([link](https://github.com/NVIDIA/tacotron2)). With the pre-trained weights initialization, the Chinese model converged very fast and was able to produce natural speech. 
