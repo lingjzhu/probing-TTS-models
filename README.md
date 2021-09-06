@@ -1,5 +1,5 @@
 ## Probing the phonetic and phonological knowledge of tones in Mandarin TTS models 
-[link to pdf](https://www.isca-speech.org/archive/SpeechProsody_2020/pdfs/51.pdf)
+[link to pdf](https://www.isca-speech.org/archive_v0/SpeechProsody_2020/pdfs/51.pdf)
 
 ### Update
 @gzfffff has provided [an updated version of this repo](https://github.com/gzfffff/probing-TTS-models) with mulitple bugs corrected (thanks!). 
